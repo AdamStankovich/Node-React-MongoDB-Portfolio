@@ -1,0 +1,18 @@
+
+.loginform {
+    overflow: hidden;
+    background-color: white;
+    height: 61%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 300px;
+    
+    .inputform {
+        margin: 5px;
+    }
+
+    ::-webkit-scrollbar {
+        display: none;
+      }
+}

@@ -1,0 +1,27 @@
+.admin{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+
+    .left{
+        flex: 0.5;
+        overflow: hidden;
+        justify-content: center;
+        display: flex;
+
+        .box {
+            border: 1px solid black;
+        }
+    }
+
+    .right{
+        flex: 0.5;
+        justify-content: center;
+        display: flex;
+    }
+
+    .box {
+
+    }
+}
