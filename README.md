@@ -1,9 +1,10 @@
-# portfolio
 Personal portfolio, built using Node, Express, React, MySQL
 
 Live deployed version can be found here: https://adamstankovich.herokuapp.com/
 
-## Project Overview
+NOTE: MongoDB database has since closed, admin features nolonger functional
+
+# Project Overview
 
 The goal of this project is to create a functioning web application hosted on Heroku, a platform
 as a service (PaaS) that enables developers to build, run, and operate applications entirely in the
